@@ -2,7 +2,7 @@ This MATLAB code implements the algorithm of Fast Online Tracking with Detection
 **************************************************************
 [1] J. Shen, D. Yu, L. Deng, X. Dong, Fast online tracking with detection refinement, 
 IEEE Trans. on Intelligent Transportation Systems, 19(1):162-173, 2018
-**********Please cite our TITS17 paper, Thanks. **************
+**********Please cite our TITS18 paper, Thanks. **************
 **************************************************************
 
 Installation (Windows7 + Matlab 2014a)
